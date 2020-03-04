@@ -1,17 +1,6 @@
-#header {
-    
-}
-#usersign-up{
-    width: 180;
-    float: left;
-}
-#signin{
-    width: 180;
-    float: right;
+#header{
+    text-align: center;
 }
 #body{
-    background-color: darkgoldenrod;
-}
-#button1{
-    align-items: center;
+    
 }
