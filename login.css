@@ -1,0 +1,46 @@
+#body{
+    background-color: #353b48;
+    align-items: center;
+    text-align: center;
+    color: orange;
+    margin-top: 100px;
+}
+a{
+    color: orange;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    width: 180px;
+    display: inline-block;
+    margin: 5px;
+    padding: 20px 0 px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    position: relative;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    
+}
+#stuff{
+    margin: 50px;
+}
+#zero{
+    margin: 10px;
+    
+}
+#fist{
+    margin: 20px;
+}
+#sec{
+    margin: 20px;
+}
+#last{
+    margin: 20px ;
+    color: orange;
+}
+#main{
+    text-align: left;
+    
+}

@@ -1,0 +1,19 @@
+#container{
+    width: 180px;
+    float: right;
+}
+#main{
+    width: 600px;
+    float: left;
+    
+}
+#body{
+    background-color: #353b48;
+    color: orange;
+    text-align: center;
+    margin: 20px;
+}
+#area{
+    width: 500px;
+    height: 500px;
+}
